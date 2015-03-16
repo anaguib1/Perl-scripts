@@ -31,4 +31,11 @@ The output should just be printed on STDOUT (no writing to a file is necessary.)
 	…. sequence here …
 
 
+=====================================================================================================
+
+parseBLAST.pl
+
+For just the first ten hits, parse out only the accession (located between the first set of pipe symbols, | | ), length and score. For each of these hits, these three fields should then be written to STDOUT in exactly this format including capitalization, spacing, and punctuation (as shown here using the real values for the first hit; study the file to understand exactly where these values came from):
+
+	Alignment #1: Accession = ref|XM_005094338.1| (Length = 2377, Score = 1098)
 
