@@ -13,7 +13,7 @@ its reverse complement until the user enters a sequence with at least one charac
 (i.e. a character other than A, C, G, or T). At this point, the program should end its run with 
 a message that mentions that an invalid character was found, with no further prompting to the user.
 
-
+=====================================================================================================
 
 export_gff3_feature.pl
 
