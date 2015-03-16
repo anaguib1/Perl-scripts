@@ -1,5 +1,7 @@
 # Perl-scripts
 
+reverseComplement 
+
 Program that prompts the user to enter an oligonucleotide sequence, such as TATGAGCCCGTA. 
 If the user entered a valid oligo sequence consisting only of the characters A, C, G, or T, 
 the program should then display the reverse complement of that sequence, in this case TACGGGCTCATA, 
