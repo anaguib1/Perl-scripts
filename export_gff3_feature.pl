@@ -1,9 +1,6 @@
 #!usr/bin/perl
 
-#ssh anaguib1@128.220.232.72
-#cd ~/Desktop/Ahmed/bioinformatics/final
-#cd ~/Desktop/Bioinformatics/practical/final/final
-#Saccharomyces_cerevisiae_S288C.annotation.gff
+
 $filename = @ARGV[0];
 $input2 = @ARGV[1];
 $input3 = @ARGV[2];
