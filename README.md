@@ -39,3 +39,22 @@ For just the first ten hits, parse out only the accession (located between the f
 
 	Alignment #1: Accession = ref|XM_005094338.1| (Length = 2377, Score = 1098)
 
+
+=====================================================================================================
+
+parseFR_HIT.pl
+
+Using FR-HIT alignment output file in .sop format. Store the
+coordinates that are parsed out of the alignment file.
+Coordinates are saved to be plotted in R.
+
+
+=====================================================================================================
+
+parseBLAST_FRHIT
+
+Using BLAST alignment output file in .txt format. Store the coordinates
+that are parsed out of the alignment file.
+Coordinates are saved to be plotted in R.
+
+
